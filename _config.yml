@@ -1,11 +1,11 @@
 # Site settings
-author: Wills Blake
-title: 
+author: Wills
+title: Wills Likes Computers
 header-img: img/home-bg.png
 email: richwblake@gmail.com
-copyright_name: Wills Blake
+copyright_name: Wills
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Thoughts, or lack there of, on modern tech
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  richwblake
