@@ -1,0 +1,8 @@
+---
+layout: post
+title:      "Language is language, sorta"
+date:       2019-11-20 03:06:55 +0000
+permalink:  language_is_language_sorta
+---
+
+Spoken language is...*complicated*. The constant influence from culture and geographical location make language a fluid and dynamic method of communication. This dynamic nature of spoken language is the key difference between itself and the language of computers, a *synthetic language*. Synthetic languages are languages implemented using a language already in existence. For example, Ruby would be an example of a language built using English. You could argue that a synthetic language, such as Ruby, is in fact dynamic. It continuously fluctuates toward the demands of the current programming community, so why would it not be counted as dynamic? Any new feature or addition to a programming language has a discrete purpose. It behaves consistently, given you follow the rules of its implementation. The interpreter is updated with an addition *first*, then the authors are made aware of the addition. This gives way to a more refined difference between natural and synthetic language. People speak in novel ways, using grammatical mechanisms and a lexicon influenced by their culture and surroundings. With regard to spoken language, it is the responsibility of the interpreter to parse information not yet heard before. Our brains are pretty remarkable in this right. Synthetic language is the other way around, with the author(speaker, in our spoken language example) being updated of the changed to the language *after* our interpreter is notified. This is not the only difference between the two, but does shed some light into each of their behavior.
