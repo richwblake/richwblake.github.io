@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Language is language, sorta"
-date:       2019-11-20 03:06:55 +0000
+date:       2019-11-19 22:06:56 -0500
 permalink:  language_is_language_sorta
 ---
 
