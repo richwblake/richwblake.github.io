@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Anarchy in the CLI"
-date:       2020-01-13 20:41:41 +0000
+date:       2020-01-13 15:41:42 -0500
 permalink:  anarchy_in_the_cli
 ---
 
